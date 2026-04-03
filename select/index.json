@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Cry & Fight",
+  "base_artist": "三浦大知",
+  "createdAt": "2026-04-03T09:55:03.123632Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cry",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/01_Cry_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "When the Wolves Cry Out",
+      "artist": "Miracle Of Sound",
+      "has_synced": false,
+      "path": "select/02_When_the_Wolves_Cry_Out_Miracle_Of_Sound.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "When the Wolves Cry Out",
+      "artist": "Miracle Of Sound",
+      "has_synced": true,
+      "path": "select/03_When_the_Wolves_Cry_Out_Miracle_Of_Sound.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Grown Man Cry",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/04_Grown_Man_Cry_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Grown Man Cry",
+      "artist": "Amanda Palmer & The Grand Theft Orchestra",
+      "has_synced": true,
+      "path": "select/05_Grown_Man_Cry_Amanda_Palmer_&_The_Grand_Theft_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Shoulder to Cry On",
+      "artist": "Charley Pride",
+      "has_synced": true,
+      "path": "select/06_A_Shoulder_to_Cry_On_Charley_Pride.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "C'mon Baby, Cry",
+      "artist": "Orville Peck",
+      "has_synced": true,
+      "path": "select/07_C'mon_Baby,_Cry_Orville_Peck.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cry (Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/08_Cry_(Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cry (Remaster)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/09_Cry_(Remaster)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cry Myself to Sleep",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/10_Cry_Myself_to_Sleep_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cry, Cry, Cry",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/11_Cry,_Cry,_Cry_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cry, Cry, Cry",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/12_Cry,_Cry,_Cry_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Grown Men Don't Cry",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/13_Grown_Men_Don't_Cry_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Grown Men Don't Cry",
+      "artist": "Tim McGraw",
+      "has_synced": false,
+      "path": "select/14_Grown_Men_Don't_Cry_Tim_McGraw.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Won't Cry",
+      "artist": "Charley Crockett",
+      "has_synced": false,
+      "path": "select/15_I_Won't_Cry_Charley_Crockett.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'm So Lonesome I Could Cry (Single Version)",
+      "artist": "Hank Williams",
+      "has_synced": true,
+      "path": "select/16_I'm_So_Lonesome_I_Could_Cry_(Single_Version)_Hank_Williams.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cry & Fight",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_01_Cry_&_Fight_三浦_大知.txt"
+    }
+  ]
+}
